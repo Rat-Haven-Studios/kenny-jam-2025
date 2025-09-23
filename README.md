@@ -5,7 +5,7 @@ This was a collaborative game built together with [Koborooski](https://github.co
 <ul>
   <li><a href="https://hutnerr.itch.io/solarcharged">Play the game on itch.io!</a></li>
   <li><a href="https://www.hunter-baker.com/pages/blog/blog-07-24-2025.html">Blog Post</a></li>
-  <li><a href="https://www.hunter-baker.com/pages/game-jams/solar-charged.html">Personal Website Page</a></li>
+  <li><a href="https://www.hunter-baker.com/pages/games/solar-charged.html">Personal Website Page</a></li>
 </ul>
 
 <img src="https://img.itch.zone/aW1hZ2UvMzczNDQ2OC8yMjMxODcwNC5naWY=/original/PtnoTU.gif" width="600">
