@@ -10,7 +10,8 @@ It is a resource manager tower defense game, where your towers don't cost money,
 ## Links
 - [Play the game on itch.io](https://hutnerr.itch.io/solarcharged)
 - [Jam page](https://itch.io/jam/kenney-jam-2025/rate/3734468)
-- hutner's [Solar Charged Showcase](https://www.hunter-baker.com/pages/games/solar-charged.html)
+- [Rat Haven Studios Showcase](https://rathavenstudios.com/pages/games/solar-charged.html)
+
 ## How to Play
 The goal is to manage your power effectively while defending against waves of enemies. You must strategically place your towers and upgrade them to survive. However, the more you upgrade them, and the more you have, the more power they will use. If you run out of power, you lose.
 
