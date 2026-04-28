@@ -1,6 +1,6 @@
 ## [Solar Charged](https://hutnerr.itch.io/solarcharged)
 Solar Charged was built with Godot for the
-[Kenny Game Jam 2025](https://itch.io/jam/kenney-jam-2025) by [Rat Haven Studios](https://github.com/Rat-Haven-Studios).
+[Kenny Game Jam 2025](https://itch.io/jam/kenney-jam-2025) by [Rat Haven Studios](https://rathavenstudios.com/).
 The theme for the jam was **"Power"**.
 
 It is a resource manager tower defense game, where your towers don't cost money, but require power to keep shooting. 
